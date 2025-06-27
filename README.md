@@ -1,2 +1,2 @@
-# Cl-o-Digital
+# Cleo-Digital
  Base de dados para análise de gargalos logísticos
